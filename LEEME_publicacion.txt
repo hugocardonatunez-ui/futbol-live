@@ -1,0 +1,17 @@
+FÚTBOL LIVE — Paquete para publicar
+
+ARCHIVO PRINCIPAL
+- index.html: página web completa (HTML, CSS y JavaScript incluidos).
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Entra en https://github.com y crea una cuenta o inicia sesión.
+2. Crea un repositorio nuevo, por ejemplo futbol-live. Si usas GitHub Free, hazlo público.
+3. Sube index.html a la raíz del repositorio (botón Add file / Upload files).
+4. Abre Settings → Pages. En Build and deployment selecciona Deploy from a branch, elige main y / (root), y guarda.
+5. Espera a que termine la publicación y abre el enlace que aparecerá en Settings → Pages.
+
+IMPORTANTE
+- No se ha publicado todavía en Internet: hace falta iniciar sesión en una cuenta tuya y completar los pasos anteriores.
+- La web es estática. No tiene una API de marcadores en directo y sus datos pueden quedarse desactualizados.
+- Los escudos y algunos enlaces de fotos/plantillas dependen de servicios externos y de que haya conexión a Internet.
+- Revisa los datos de jornadas y clasificación antes de anunciar públicamente la web.
